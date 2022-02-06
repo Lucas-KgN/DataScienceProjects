@@ -1,4 +1,4 @@
-# Aplicando Regressão Linear Simples para fazer previsões
+# Aplicando Regressão Linear Múltipla para fazer previsões
 
 * O objetivo está em realizar a previsão da taxa média de ocupação de casas em Boston, Estados Unidos.
 
