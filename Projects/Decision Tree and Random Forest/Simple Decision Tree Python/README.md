@@ -6,4 +6,4 @@
 
 * Foi desenvolvido um modelo de árvore de decisão utilizando a Entropia e o Ganho de Informação como métricas de criação da árvore e outro modelo utilizando o Índice Gini como métrica. 
 
-* As bibliotecas Graphviz e pyplot foram utilizadas para visualizar as árvores.
+* As bibliotecas Graphviz e pydot foram utilizadas para visualizar as árvores.
