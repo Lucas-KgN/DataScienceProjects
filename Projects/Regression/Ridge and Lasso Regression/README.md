@@ -4,5 +4,5 @@
 
 * A base de dados fornecida foi criada com o objetivo de prever os preços de venda de casas e pode ser encontrada no seguinte link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 
-* Três modelos de Regressão Linear foram construídos, o primeiro não utilizada nenhum método de regularização dos dados. O segundo aplica a Regressão Ridge e o terceiro a Regressão LASSO. 
+* Três modelos de Regressão Linear foram construídos, o primeiro não utiliza nenhum método de regularização dos dados. O segundo aplica a Regressão Ridge e o terceiro a Regressão LASSO. 
 
